@@ -71,7 +71,7 @@ Government-Document-Sharing-Portal: Suggests security-conscious development and 
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](www.linkedin.com/in/chandrakant-barik-1b41492b8) || [Email](fr16chandrakant@gmail.com)
+[LinkedIn]( www.linkedin.com/in/chandrakant-barik-1b41492b8 ) || [Email](fr16chandrakant@gmail.com)
 
 
 <!--
