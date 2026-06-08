@@ -2,7 +2,7 @@
 
 
 
-# Hi, I'm Chandrakant Barik! 👋 
+# Hi, I'm Chandrakant! 👋 
 
 ### 👨‍💻 Full Stack Developer | AI & Data Science Aspirant | 3rd Year B.E. @ MBM University
 
