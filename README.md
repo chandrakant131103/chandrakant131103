@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHANDRAKANT%20BARIK&fontSize=60&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F7A41D,100:1E90FF&height=200&section=header&text=CHANDRAKANT%20BARIK&fontSize=55&fontColor=ffffff)
 
 <div align="center">
 
@@ -14,18 +14,28 @@
 
 ### 👨‍💻 About Me
 
-B.Tech Artificial Intelligence & Data Science student at **MBM University, Jodhpur** (2023–27), with hands-on experience across **9+ internships** spanning healthcare AI, industrial ML, fintech NLP, and cloud infrastructure. I work across computer vision (YOLO, U-Net), NLP/RAG pipelines (LangChain, FAISS), cloud deployment (AWS, Oracle OCI), and full-stack development (React, Flask, Node.js, Firebase). 🏆 2nd Prize — MBM University AI Competition. Currently preparing for **GATE 2026 (Data Science & AI)**.
+B.Tech Artificial Intelligence & Data Science student at **MBM University, Jodhpur** (2023–27), with hands-on experience across **7+ internships** spanning healthcare AI, industrial ML, fintech NLP, and cloud infrastructure. I work across computer vision (YOLO, U-Net), NLP/RAG pipelines (LangChain, FAISS), cloud deployment (AWS, Oracle OCI), and full-stack development (React, Flask, Node.js, Firebase). 🏆 2nd Prize — MBM University AI Competition. Currently preparing for **GATE 2026 (Data Science & AI)**.
 
 ---
 
-### 🚀 Currently Active Internships
+### 🚀 Internship Experience
 
-| Organization | Role | Focus |
-|---|---|---|
-| **HashedBit Innovations** | Software Developer Intern | Hospital Management System — full CRUD (patients, staff, billing), Agile PR workflow |
-| **Gujarat Infotech Ltd.** | AI Chatbot Developer Intern | Govt. financial scheme chatbot (PMJDY, Mudra, APY, PMSBY), RAG + multilingual NLP |
-| **CodTech IT Solutions** | Cloud Computing Intern | AWS S3, Lambda, API Gateway, IAM — 4 hands-on serverless/cloud projects |
-| **IBM SkillsBuild (AICTE/BharatCares)** | Gen AI & Cloud Computing Intern | LLMs, prompt engineering, capstone AI app deployed on AWS |
+**🟢 Currently Active**
+
+| Organization | Role | Duration | Focus |
+|---|---|---|---|
+| **HashedBit Innovations** | Software Developer Intern | Jun – Aug 2026 (Remote) | Hospital Management System — full CRUD (patients, staff, billing), Agile PR workflow |
+| **Gujarat Infotech Ltd.** | AI Chatbot Developer Intern | Jun 15 – Aug 1, 2026 | Govt. financial scheme chatbot (PMJDY, Mudra, APY, PMSBY), RAG + multilingual NLP |
+| **CodTech IT Solutions** | Cloud Computing Intern | Jun 3 – Jul 29, 2026 | AWS S3, Lambda, API Gateway, IAM — 4 hands-on serverless/cloud projects |
+| **IBM SkillsBuild (AICTE / BharatCares)** | Gen AI & Cloud Computing Intern | Jun 22 – Jul 30, 2026 | LLMs, prompt engineering, capstone AI app deployed on AWS |
+
+**✅ Completed**
+
+| Organization | Role | Duration | Focus |
+|---|---|---|---|
+| **Suvidha Foundation** | Machine Learning Intern — Dental AI | Healthcare AI / Social Impact | YOLO tooth detection + U-Net segmentation for cavity & disease identification |
+| **MineExcellence Inc.** | AI/ML Developer Intern | Jun – Aug 2025, Jodhpur | Random Forest + PSO for drill blast optimization; full-stack React + Flask dashboard |
+| **Unified Mentor Pvt. Ltd.** | Frontend Developer Intern | Jun – Aug 2025, Haryana | Built Clinic Management System & Government Document Portal with Firebase Auth + CRUD |
 
 ---
 
@@ -115,8 +125,8 @@ YOLO-based tooth detection → U-Net segmentation pipeline for cavity/disease cl
 
 <div align="center">
 
-![Chandrakant's Stats](https://github-readme-stats.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant131103&layout=compact&theme=tokyonight)
+![Chandrakant's Stats](https://github-readme-stats.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant131103&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 </div>
 
