@@ -1,90 +1,133 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHANDRAKANT%20BARIK&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHANDRAKANT%20BARIK&fontSize=60&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud&descAlignY=55&descAlign=50)
 
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+%40+MBM+University;9%2B+Internships+%7C+Cloud+%2B+AI+%2B+Full+Stack;Building+Production-Ready+AI+Systems)
 
-# Hi, I'm Chandrakant! 👋 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-orange?style=flat-square&logo=amazons3)](http://chandrakant131103-portfolio.s3-website.ap-south-1.amazonaws.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandrakant-barik-1b41492b8)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:fr16chandrakant@gmail.com)
 
-### 👨‍💻 Full Stack Developer | AI & Data Science Aspirant | 3rd Year B.E. @ MBM University
-
-I am a results-driven developer who enjoys solving complex architectural challenges. I recently mastered cross-domain authentication hurdles and cloud-media integration while building high-performance web systems.
-
----
-
-### 🌟 Featured Project: Spotify Clone (MERN)
-A full-stack music streaming platform with a "Frosted Glass" aesthetic.
-- **The Challenge**: Overcame Vercel-to-Render cookie restrictions by implementing a manual JWT Bearer Token system via Axios interceptors.
-- **The Tech**: React (Vite), Node.js, Express, MongoDB Atlas, ImageKit.io.
-- [**Live Demo**](https://spotify-frontend-ashy-delta.vercel.app/) | [**View Code**](https://github.com/chandrakant131103/SPOTIFY-CLONE-MERN-)
+</div>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 👨‍💻 About Me
 
-- **Frontend**: React, Vite, Axios, Tailwind, Custom CSS (Glassmorphism)
-- **Backend**: Node.js, Express, JWT Auth, REST APIs
-- **Database**: MongoDB, Mongoose
-- **Cloud/DevOps**: Vercel, Render, ImageKit, Git/GitHub
-- **AI/ML**: Python, NumPy, Pandas (Preparing for GATE 2026 DA)
-
-
-# 🛡️ Veritas: Dual-Architecture Deepfake Detection
-
-Veritas is a sophisticated security tool designed to identify synthetic media using a multi-layered neural network approach.
-
-### 🔬 Technical Overview
-- **Dual Architecture**: Utilizes a combination of spatial and temporal analysis to detect inconsistencies in facial movements.
-- **Image Processing**: Leverages OpenCV for advanced feature extraction and noise reduction.
-- **Deep Learning**: Built with Python/TensorFlow to analyze deep-level pixel manipulation.
-
-### 🧪 Key Results
-- Achieved **[Insert Accuracy]%** accuracy on standard deepfake datasets.
-- Optimized for real-time detection with minimal latency.
+B.Tech Artificial Intelligence & Data Science student at **MBM University, Jodhpur** (2023–27), with hands-on experience across **9+ internships** spanning healthcare AI, industrial ML, fintech NLP, and cloud infrastructure. I work across computer vision (YOLO, U-Net), NLP/RAG pipelines (LangChain, FAISS), cloud deployment (AWS, Oracle OCI), and full-stack development (React, Flask, Node.js, Firebase). 🏆 2nd Prize — MBM University AI Competition. Currently preparing for **GATE 2026 (Data Science & AI)**.
 
 ---
 
-### 🎯 Current Focus
-- 🎓 **GATE 2026**: Intensive preparation for Data Science & Artificial Intelligence.
-- 🌿 **Computer Vision**: Building a Deep Learning system for Leaf Classification.
-- 🤖 **Deepfake Security**: Enhancing detection accuracy in the Veritas project.
+### 🚀 Currently Active Internships
+
+| Organization | Role | Focus |
+|---|---|---|
+| **HashedBit Innovations** | Software Developer Intern | Hospital Management System — full CRUD (patients, staff, billing), Agile PR workflow |
+| **Gujarat Infotech Ltd.** | AI Chatbot Developer Intern | Govt. financial scheme chatbot (PMJDY, Mudra, APY, PMSBY), RAG + multilingual NLP |
+| **CodTech IT Solutions** | Cloud Computing Intern | AWS S3, Lambda, API Gateway, IAM — 4 hands-on serverless/cloud projects |
+| **IBM SkillsBuild (AICTE/BharatCares)** | Gen AI & Cloud Computing Intern | LLMs, prompt engineering, capstone AI app deployed on AWS |
 
 ---
 
+### 🌟 Featured Projects
 
-SPOTIFY-CLONE-MERN-: This is your flagship. It shows full-stack proficiency, deployment experience, and complex authentication handling.
+**🛡️ Veritas — Dual-Architecture Deepfake Detection**
+Forensic AI using MesoNet CNN + transfer learning to detect GAN/Diffusion-generated fakes via mesoscopic artifact analysis. Deployed live on Streamlit.
+🔗 [Live Demo](https://e5yqut4sxyd6fhfpgafpna.streamlit.app/)
 
-VERITAS-DUAL-ARCHITECTURE-DEEPFAKE-DETECTION: This sounds high-level and research-oriented. It demonstrates expertise in modern AI challenges.
+**🎓 PrepGenie AI — AI Placement & Interview Coach**
+Full-stack AI interview prep app (mock interviews, resume/JD-based question generation, answer scoring, quiz practice) powered by Groq's Llama 3.3 70B with token-by-token streaming. Containerized with Docker, deployed on AWS Elastic Beanstalk.
+🔗 [Live App](http://prepgenie-ai-env.eba-bqtrxs5s.ap-southeast-2.elasticbeanstalk.com/)
 
-MINI-PROJECT-LEAVES-: Perfect for showing your Image Processing and CNN skills.
+**🎵 Spotify Clone (MERN)**
+Full-stack music streaming platform with a "Frosted Glass" UI. Solved Vercel-to-Render cross-domain cookie restrictions using a manual JWT Bearer Token system via Axios interceptors.
+🔗 [Live Demo](https://spotify-frontend-ashy-delta.vercel.app/) | [Code](https://github.com/chandrakant131103/SPOTIFY-CLONE-MERN-)
 
-Robotics: Shows you can work with hardware or complex simulations (Kinematics/Kinetic control).
+**😊 EduMote — Real-Time Emotion-Aware AI Tutor**
+Multimodal app using DeepFace for real-time emotion detection (confusion, boredom, engagement), dynamically switching Gemini 1.5 Flash teaching personas based on facial cues.
 
-Clinic-Management-System: A great "Utility" project that shows you can build practical CRUD applications for real-world problems.
+**💰 Financial Inclusion AI Chatbot**
+RAG-based chatbot (LangChain + FAISS) covering 200+ FAQs on PMJDY, Mudra Loan, APY, PMSBY with multilingual support (EN/HI/GU) and an eligibility recommendation engine.
 
-Government-Document-Sharing-Portal: Suggests security-conscious development and handling of sensitive data.
+**⛏️ Drill Blast Pattern Optimization**
+ML solution (Random Forest + PSO) for mine blast pattern optimization, paired with a React + Flask dashboard for real-time visualization — reduced explosive costs.
 
+**🦷 Dental X-Ray AI Diagnostic System**
+YOLO-based tooth detection → U-Net segmentation pipeline for cavity/disease classification, delivered for social healthcare outreach via Suvidha Foundation.
 
+---
 
-### 📊 My GitHub Insights
-![Chandrakant's Stats](https://github-readme-stats.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight)
+### ☁️ Cloud Computing Internship — AWS Project Portfolio (CodTech)
+
+| Task | Project | Key Services |
+|---|---|---|
+| 1 | Static Portfolio Hosting | Amazon S3 static website hosting |
+| 2 | Serverless REST API | AWS Lambda (Python) + API Gateway (HTTP API) |
+| 3 | Cloud Storage Explorer | S3 + Flask + boto3 (upload/download/delete/search) |
+| 4 | Serverless Image Thumbnail Generator | Lambda + S3 event triggers + Pillow |
+
+🔗 Live portfolio: [chandrakant131103-portfolio](http://chandrakant131103-portfolio.s3-website.ap-south-1.amazonaws.com/)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql" />
+
+**Machine Learning, CV & Generative AI**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+**Full Stack Development**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,js,firebase" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel" />
+
+**Embedded & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=arduino,vscode,postman,figma" />
+
+</div>
+
+**Also working with:** YOLO (v5/v8) · U-Net · MesoNet CNN · DeepFace · Transfer Learning · LangChain · RAG · FAISS · ChromaDB · Gemini 1.5 Flash · Prompt Engineering · AWS S3/EC2/IAM/Lambda/API Gateway/CloudFront/Route 53 · Oracle OCI · ESP32
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥈 2nd Prize — AI Project Competition, MBM University Alumni Association
+- 🏅 Top 30 Finalist — Ideathon 2025, Laghu Bharati Udyog India (National Level)
+- 📜 IBM SkillsBuild — Generative AI & Cloud Computing (BharatCares/AICTE, 2026)
+- 📜 Oracle Cloud Infrastructure 2025 Generative AI Professional
+- 📜 Deloitte Virtual Internship Certificate (Forage, Australia)
+- 📜 Unified Mentor — Frontend Developer Internship Certificate & Letter of Recommendation
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+
+![Chandrakant's Stats](https://github-readme-stats.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant131103&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ### 📫 Let's Connect
-[LinkedIn]( www.linkedin.com/in/chandrakant-barik-1b41492b8 ) || [Email](fr16chandrakant@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20%26%20ML%20Engineer-orange?style=for-the-badge)](http://chandrakant131103-portfolio.s3-website.ap-south-1.amazonaws.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakant-barik-1b41492b8)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fr16chandrakant@gmail.com)
 
 <!--
-**chandrakant131103/chandrakant131103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**chandrakant131103/chandrakant131103** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
