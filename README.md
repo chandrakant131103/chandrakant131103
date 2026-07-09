@@ -125,8 +125,8 @@ YOLO-based tooth detection → U-Net segmentation pipeline for cavity/disease cl
 
 <div align="center">
 
-![Chandrakant's Stats](https://github-readme-stats.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakant131103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![Chandrakant's Stats](https://github-stats-extended.vercel.app/api?username=chandrakant131103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chandrakant131103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
