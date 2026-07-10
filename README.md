@@ -43,7 +43,7 @@ B.Tech Artificial Intelligence & Data Science student at **MBM University, Jodhp
 
 **🛡️ Veritas — Dual-Architecture Deepfake Detection**
 Forensic AI using MesoNet CNN + transfer learning to detect GAN/Diffusion-generated fakes via mesoscopic artifact analysis. Deployed live on Streamlit.
-🔗 [Live Demo](https://e5yqut4sxyd6fhfpgafpna.streamlit.app/)
+🔗 [Live Demo](https://veritas-dual-architecture-deepfake.onrender.com/)
 
 **🎓 PrepGenie AI — AI Placement & Interview Coach**
 Full-stack AI interview prep app (mock interviews, resume/JD-based question generation, answer scoring, quiz practice) powered by Groq's Llama 3.3 70B with token-by-token streaming. Containerized with Docker, deployed on AWS Elastic Beanstalk.
